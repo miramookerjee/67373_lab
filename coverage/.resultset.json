@@ -35,6 +35,7 @@
   "Unit Tests": {
     "coverage": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "/Users/miramookerjee/67373/lab5-choretracker-starter/app/models/child.rb": [
         0,
         0,
@@ -51,14 +52,26 @@
         0
 =======
       "/Users/miramookerjee/67373/lab5-choretracker-starter/app/models/task.rb": [
+=======
+      "/Users/miramookerjee/67373/lab5-choretracker-starter/app/models/child.rb": [
+>>>>>>> models
         1,
         1,
         1,
         1,
         1,
         null,
-        2,
         3,
+        2,
+        null,
+        1,
+        3,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
         null
 >>>>>>> models
       ],
@@ -75,22 +88,41 @@
         1,
         1,
         1,
+<<<<<<< HEAD
         null
 >>>>>>> models
       ],
       "/Users/miramookerjee/67373/lab5-choretracker-starter/app/models/child.rb": [
         1,
         1,
+=======
+>>>>>>> models
+        1,
+        3,
+        2,
+        2,
+        4,
+        2,
+        2,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/miramookerjee/67373/lab5-choretracker-starter/app/models/task.rb": [
+        1,
+        1,
         1,
         1,
         1,
         null,
-        1,
-        0,
-        null,
-        null,
-        1,
-        1,
+        2,
+        3,
         null
       ],
       "/Users/miramookerjee/67373/lab5-choretracker-starter/app/controllers/application_controller.rb": [
@@ -346,9 +378,13 @@
       ]
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "timestamp": 1612489320
 =======
     "timestamp": 1612489247
+>>>>>>> models
+=======
+    "timestamp": 1612531650
 >>>>>>> models
   }
 }

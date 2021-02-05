@@ -1,5 +1,9 @@
 {
   "result": {
+<<<<<<< HEAD
     "covered_percent": 0.0
+=======
+    "covered_percent": 10.99
+>>>>>>> models
   }
 }
